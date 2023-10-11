@@ -1,4 +1,5 @@
 - 💻 Data Engineering.
+- 💻 DBA - SQL SERVER.
 - 📊 Business Intelligence.
 - 🎓 Bachelor of Information Systems - FACULDADE BARRETOS.
 
